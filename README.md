@@ -23,18 +23,18 @@
 
 - [Cara Penginstallan Bot](https://youtu.be/41Xj_Kg4DCM)
 - Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
-ownerNumber = "6213xxxxxx@c.us"
+ownerNumber = "6289503294960@c.us"
 - Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
-[] -> ["62813xxxxxx@c.us"]
+[] -> ["6289503294960@c.us"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JuwROWyZh70Gn8rrmtReyu)
+- [TELEGRAM](https://t.me/tegarxzy)
+- [WHATSAPP](https://wa.me/6289503294960)
+- [MY BOT](wa.me/6289503294960)
+- [INSTAGRAM] (https://www.instagram.com/tegarxzy/]
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -64,7 +64,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
+> cd SYNCXBOTZ
 ```
 
 Install the dependencies:
