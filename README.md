@@ -22,7 +22,7 @@
 ## Information
 
 - [Cara Penginstallan Bot](https://youtu.be/41Xj_Kg4DCM)
-- Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
+- Change [ownerNumber](https://github.com/tegzxy) in tobz.js to be your number
 ownerNumber = "6289503294960@c.us"
 - Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
 [] -> ["6289503294960@c.us"]
@@ -42,9 +42,9 @@ Open setting.js then edit & paste it in YOUR_APIKEY
 - [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
 
 Apikey Location
-- [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
-- [FETCHER](https://github.com/TobyG74/ElainaBOT/blob/8ea2130f24132647feea3ff61dc09466fe91b19e/lib/fetcher.js#L6)
-- [FUNCTION](https://github.com/TobyG74/ElainaBOT/blob/a6252b0ee6ec754d25d71061d7989d86fc54a19e/lib/functions.js#L11)
+- [SETTING](https://github.com/tegzxy/SYNCXBOTZ/blob/main/README.md)
+- [FETCHER](https://github.com/tegzxy/SYNCXBOTZ/blob/main/README.md)
+- [FUNCTION](https://github.com/tegzxy/SYNCXBOTZ/blob/main/README.md)
 
 ## Donate
 - [Saweria](https://saweria.co/ItzTobz)
@@ -63,7 +63,7 @@ This is a Bot Group Type, so you have to enter the bot into a group in order to 
 Clone this project
 
 ```bash
-> git clone https://github.com/TobyG74/ElainaBOT
+> git clone https://github.com/tegzxy
 > cd SYNCXBOTZ
 ```
 
